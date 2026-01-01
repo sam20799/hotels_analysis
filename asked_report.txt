@@ -1,0 +1,18 @@
+Reports to be Submitted
+=======================
+Give total hotel count per city graph
+Give unique property ids in aggregate bookings dataset
+Give total bookings per property_id
+Find out days on which bookings are greater than capacity
+Find out properties that have highest capacity
+In aggregate bookings find out records that have successful_bookings value greater than capacity. Filter those records
+What is an average occupancy rate in each of the room categories?
+Give average occupancy rate per city
+When was the occupancy better? Weekday or Weekend?
+In the month of June, what is the occupancy for different cities
+We got new data for the month of august. Append that to existing data
+Give revenue realized per city
+Give month by month revenue
+Give revenue realized per hotel type
+Give average rating per city
+Give a pie chart of revenue realized per booking platform
